@@ -6,5 +6,5 @@
 
 ### 翻译：Starkren，yanglingwell
 
-[http://game.gtimg.cn/images/lol/act/a20180821presell/dj1.png](http://game.gtimg.cn/images/lol/act/a20180821presell/dj1.png)
+
 
