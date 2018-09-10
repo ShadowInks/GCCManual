@@ -1,2 +1,4 @@
-# GCCManual
-GCC手册中文版
+# README
+
+## GCC手册中文版
+
